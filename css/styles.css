@@ -36,7 +36,7 @@ body {
      color: #fff;
      text-align: center;
  }
-
+ 
  .row{
     display: flex;
  }
@@ -58,6 +58,5 @@ body {
     padding: 13px;
     min-width: 300px;
     border: 0px;
-    border-radius: 5px;
-    cursor: pointer;
+    border-radius: px;
  }
