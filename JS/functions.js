@@ -51,6 +51,7 @@ function disableButtonWhenGameIsWon(player) {
     display.textContent = player + "won the game!";
 }
 
+//this is for restarting
 
 function checkDraw() {
     for (let button of buttons){
