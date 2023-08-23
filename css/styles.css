@@ -50,6 +50,7 @@ body {
     font-weight: bolder;
     background-color: #eee888;
     color: black !important; 
+    text-align: center;
  }
 
  #restartButton{
